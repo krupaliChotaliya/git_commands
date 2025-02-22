@@ -17,6 +17,10 @@ This repository provides a list of commonly used Git commands along with their d
 - **`git stash pop`** - Applies the most recent stashed changes and removes them from the stash.
 - **`git stash`** - Temporarily saves uncommitted changes without committing them.
 - **`git status`** - Shows the working directory and staging area status.
+- **`git remote -v`** - Displays the remote repository URLs linked to the local repository.
+- **`git remote add origin <repo_url>`** - Adds a new remote repository.
+- **`git init`** - Initializes a new Git repository.
+- **`git branch -d <branch_name>`** - Deletes the specified branch.
 
 ## How to Use
 Clone this repository and use these Git commands to manage your project efficiently.
@@ -26,3 +30,4 @@ Clone this repository and use these Git commands to manage your project efficien
 git clone <repo_url>
 cd <repo_directory>
 ```
+
